@@ -1,4 +1,4 @@
-nombre = prompt("Ingresa tu Nombre:")
+/*nombre = prompt("Ingresa tu Nombre:")
 edad = Number(prompt("Ingresa tu edad:"))
 
 if (nombre == "marcos"){
@@ -13,3 +13,4 @@ alert("Tienes que venir con un adulto que autorize tatuarte")
 }else 
     alert("De ninguna manera tenes edad para tatuarte")
 
+*/
